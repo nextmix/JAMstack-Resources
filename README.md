@@ -47,6 +47,7 @@
 
 ## JAMstack Blog
 - [Netlify Blog](https://www.netlify.com/blog/)
+- [blog logrocket](https://blog.logrocket.com/)
 
 ## Jamstack best practices
 - [Modern Web Development on the Jamstack](https://www.netlify.com/oreilly-jamstack/)
@@ -61,3 +62,4 @@
 
 ## miscellaneous
 -[women of jamstack](https://womenofjamstack.com/)
+- [Sanity Exchange](https://www.sanity.io/exchange/all)
