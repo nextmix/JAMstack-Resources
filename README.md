@@ -88,3 +88,10 @@
 - Gatsby Cloud
 - [Layer0](https://www.layer0.co/)
 - [GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/)
+
+## JAMstack Project
+- [Vue Storefront](https://www.vuestorefront.io/) - `Lightning-Fast Frontend Platform for Headless Commerce`
+
+## GraphQL
+- [GraphQL editor](https://graphqleditor.com/)
+- [TakeShape](https://www.takeshape.io/) - `GraphQL API Mesh For The Headless Web`
