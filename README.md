@@ -12,6 +12,9 @@
 - [storyblok](https://www.storyblok.com/)
 - [Agility CMS](https://agilitycms.com/)
 
+## JAMstack Comments
+- [SupaComments](https://github.com/mcnaveen/SupaComments) - [websie](https://supacomments.vercel.app/) - [demo](https://supacomments.vercel.app/demo]
+
 ## JAMstack Agency
 - [Extendi](https://www.extendi.it/)
 - [ikius](https://ikius.com/)
