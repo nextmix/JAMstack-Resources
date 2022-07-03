@@ -3,6 +3,8 @@
 
 ## Commerce
 - [crystallize.com](https://crystallize.com/) - `Headless Commerce for Product Storytellers`
+- [vendure](https://github.com/vendure-ecommerce/vendure) - [website](https://www.vendure.io/) `A headless GraphQL ecommerce framework for the modern web`
+- [commerce.js](https://github.com/chec/commerce.js) - [website](https://commercejs.com/jamstack-ecommerce/) `Open source, JS eCommerce SDK for building headless, Jamstack applications. Build custom storefronts, carts, and checkouts in any frontend framework, platform, or device. Integrates with Stripe, Square, PayPal, Paymill and Razorpay with support for 135+ currencies.`
 
 ## commerce boilerplates
 - [CrystallizeAPI](https://github.com/CrystallizeAPI/boilerplates)
@@ -64,6 +66,9 @@
 - [Your Ultimate 50-Point Checklist for Choosing a Headless CMS](https://agilitycms.com/download/50-point-checklist-headless-cms)
 - [New to Jamstack? Everything You Need to Know to Get Started](https://snipcart.com/blog/jamstack)
 - [7 places to host your Jamstack site](https://www.pluralsight.com/blog/software-development/where-to-host-your-jamstack-site)
+- [9 Best eCommerce Solutions for Jamstack Websites](https://bejamas.io/blog/jamstack-ecommerce/)
+- [E-commerce made easy with JAMSTACK!](https://dev.to/thabisomagwaza/e-commerce-made-easy-with-jamstack-2ph)
+- [7 Best Jamstack eCommerce Solutions in 2022](https://cleancommit.io/blog/best-jamstack-ecommerce-solutions-in-2022/)
 
 ## miscellaneous
 - [women of jamstack](https://womenofjamstack.com/)
